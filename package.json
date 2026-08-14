@@ -1,0 +1,12 @@
+{
+  "name": "@safemeet/sdk",
+  "version": "0.0.1",
+  "description": "Placeholder — the official SafeMeet SDK. Coming soon.",
+  "license": "MIT",
+  "homepage": "https://safemeet.now",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevinoSolutions/safemeet-node.git"
+  }
+}
